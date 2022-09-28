@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danilobatson/weather-project/issues"
   },
-  "homepage": "https://github.com/danilobatson/weather-project#readme"
+  "homepage": "https://github.com/danilobatson/weather-project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
