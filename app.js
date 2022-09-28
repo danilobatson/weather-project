@@ -30,7 +30,7 @@ app.post('/', (req, res) => {
       );
       res.write(`<img src="${imgURL}">`);
       res.send();
-    });
+    }); 
   });
 });
 
